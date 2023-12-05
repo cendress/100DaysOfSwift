@@ -1,0 +1,58 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Bucket
+   uuid = "FFA2D15A-B51A-4441-B632-AE26B8AA51D6"
+   type = "1"
+   version = "2.0">
+   <Breakpoints>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "E7D3450E-BFA4-4145-84F5-8A03CE7C6450"
+            shouldBeEnabled = "No"
+            nameForDebugger = "Equals10"
+            condition = "i % 10 == 0"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "Debugging/ViewController.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "19"
+            endingLineNumber = "19"
+            landmarkName = "viewDidLoad()"
+            landmarkType = "7">
+            <Locations>
+               <Location
+                  uuid = "E7D3450E-BFA4-4145-84F5-8A03CE7C6450 - debca99e99aee42a"
+                  shouldBeEnabled = "No"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "Debugging.ViewController.viewDidLoad() -&gt; ()"
+                  moduleName = "Debugging"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/christopher/Desktop/UIKit/Debugging/Debugging/ViewController.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "19"
+                  endingLineNumber = "19"
+                  offsetFromSymbolStart = "704">
+               </Location>
+               <Location
+                  uuid = "E7D3450E-BFA4-4145-84F5-8A03CE7C6450 - debca99e99aee42a"
+                  shouldBeEnabled = "No"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "Debugging.ViewController.viewDidLoad() -&gt; ()"
+                  moduleName = "Debugging"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/christopher/Desktop/UIKit/Debugging/Debugging/ViewController.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "19"
+                  endingLineNumber = "19"
+                  offsetFromSymbolStart = "764">
+               </Location>
+            </Locations>
+         </BreakpointContent>
+      </BreakpointProxy>
+   </Breakpoints>
+</Bucket>
